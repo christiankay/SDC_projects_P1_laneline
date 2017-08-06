@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>CarND-LaneLines-P1/writeup_template.md at master · udacity/CarND-LaneLines-P1</title>
+  <title>CarND-LaneLines-P1/writeup.md at master · udacity/CarND-LaneLines-P1</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
